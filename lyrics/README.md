@@ -1,0 +1,1 @@
+The seven lyric passages in the group’s final supplied list. LRC timestamps refer to the original full recording; presentation-data.js contains the matching zero-based cut timeline. Full published sing-along videos open from the playlist.

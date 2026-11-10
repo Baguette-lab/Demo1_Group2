@@ -1,0 +1,1 @@
+Seven prepared vocal passages from the supplied full recordings. presentation-data.js references their content-versioned filenames. manifest.json records the source intervals, line timings, and input/output hashes. See ../CUE_SHEET.md for story order.

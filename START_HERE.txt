@@ -1,0 +1,7 @@
+SA IISANG BUBONG
+
+Upload this folder’s CONTENTS to the GitHub repository root, with index.html at the root. Keep the mp3, cuts, lyrics, assets, and documents folders.
+
+This corrected version contains only the 7 songs in the final supplied list, 7 full recordings, 7 matching lyric passages, and 7 prepared cuts across 6 illustrated story chapters. Full runtime: 28:12.
+
+Read README.md for setup and CUE_SHEET.md for rehearsal cues.

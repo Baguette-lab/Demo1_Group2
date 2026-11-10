@@ -1,0 +1,287 @@
+{
+  "version": "selected-seven-20261109-r1",
+  "cuts": [
+    {
+      "id": "panalangin",
+      "phase": 1,
+      "sourceFile": "mp3/panalangin.mp3",
+      "sourceSha256": "89bff7c7b90bebf8e3385dbe2444264fcc384531d5eff9f902acf0f112cf27f7",
+      "sourceSegments": [
+        [
+          19.06,
+          31.76
+        ],
+        [
+          48.74,
+          74.32
+        ]
+      ],
+      "clipFile": "cuts/panalangin-4455d9fcc3.mp3",
+      "clipSha256": "66b547759c5ace0acc7e4e8833c8d76522b1e4cae0e7d1e066808577a7a1b238",
+      "clipDuration": 38.28,
+      "encodedDuration": 38.321633,
+      "lines": [
+        {
+          "time": 0.18,
+          "end": 5.8
+        },
+        {
+          "time": 6.2,
+          "end": 9.22
+        },
+        {
+          "time": 9.22,
+          "end": 12.52
+        },
+        {
+          "time": 12.88,
+          "end": 19.2
+        },
+        {
+          "time": 19.2,
+          "end": 25.46
+        },
+        {
+          "time": 25.96,
+          "end": 31.9
+        },
+        {
+          "time": 31.9,
+          "end": 38.08
+        }
+      ]
+    },
+    {
+      "id": "when-i-met-you",
+      "phase": 1,
+      "sourceFile": "mp3/when-i-met-you.mp3",
+      "sourceSha256": "b726b5298975d8899fa16566bc4ea9a2a08da3a0ac6ff5f8a0626437e3ab4841",
+      "sourceSegments": [
+        [
+          45.82,
+          70.73
+        ]
+      ],
+      "clipFile": "cuts/when-i-met-you-e50980aff4.mp3",
+      "clipSha256": "cffbda2dd6838adffc5bb7eb02e4c50f14583ddea1fd7a44362cfc092940a494",
+      "clipDuration": 24.91,
+      "encodedDuration": 24.946939,
+      "lines": [
+        {
+          "time": 0.18,
+          "end": 4.5
+        },
+        {
+          "time": 5.04,
+          "end": 8.42
+        },
+        {
+          "time": 10.38,
+          "end": 15.24
+        },
+        {
+          "time": 15.24,
+          "end": 18.54
+        },
+        {
+          "time": 20.08,
+          "end": 24.8
+        }
+      ]
+    },
+    {
+      "id": "vines",
+      "phase": 2,
+      "sourceFile": "mp3/02-vines.mp3",
+      "sourceSha256": "1cb337a23b3cbf28f20a3eb6ecb5e19571e6d8296da6a5b31915ea2deba07f56",
+      "sourceSegments": [
+        [
+          58.8,
+          71.75
+        ]
+      ],
+      "clipFile": "cuts/vines-36816ebe1e.mp3",
+      "clipSha256": "27d91ed9567a0e9c543246dbb78d4c8cbc6a008c6d839193b02ae63eb1891cd5",
+      "clipDuration": 12.95,
+      "encodedDuration": 12.982857,
+      "lines": [
+        {
+          "time": 0.1,
+          "end": 2.4
+        },
+        {
+          "time": 3.82,
+          "end": 7.58
+        },
+        {
+          "time": 7.58,
+          "end": 9.6
+        },
+        {
+          "time": 10.44,
+          "end": 12.85
+        }
+      ]
+    },
+    {
+      "id": "true-love-waits",
+      "phase": 3,
+      "sourceFile": "mp3/true-love-waits.mp3",
+      "sourceSha256": "8f967ba333c4ae101a10cd12215bbeaaf9bcacc89d26855520470b89c694f05e",
+      "sourceSegments": [
+        [
+          8.98,
+          15.1
+        ],
+        [
+          23.1,
+          28.02
+        ],
+        [
+          37.22,
+          44.28
+        ],
+        [
+          51.6,
+          56.62
+        ]
+      ],
+      "clipFile": "cuts/true-love-waits-c000c9591d.mp3",
+      "clipSha256": "bb365ff917b86824ce056dd057243edec12740480bb95bb3bcee60dcae255326",
+      "clipDuration": 23.12,
+      "encodedDuration": 23.170612,
+      "lines": [
+        {
+          "time": 0.18,
+          "end": 5.92
+        },
+        {
+          "time": 6.3,
+          "end": 10.84
+        },
+        {
+          "time": 11.22,
+          "end": 17.9
+        },
+        {
+          "time": 18.28,
+          "end": 22.9
+        }
+      ]
+    },
+    {
+      "id": "unti-unti",
+      "phase": 4,
+      "sourceFile": "mp3/04-unti-unti.mp3",
+      "sourceSha256": "03cad279e8676bf8d15646d94871a09693dd255e074bac4149499772ecea1c09",
+      "sourceSegments": [
+        [
+          86.58,
+          109.25
+        ]
+      ],
+      "clipFile": "cuts/unti-unti-a91d625283.mp3",
+      "clipSha256": "9f769426a4e5cc8f69bd91a3f0dfec8048caa6f18897ea952a9f1afa135f1b63",
+      "clipDuration": 22.67,
+      "encodedDuration": 22.700408,
+      "lines": [
+        {
+          "time": 0.1,
+          "end": 3.57
+        },
+        {
+          "time": 5.82,
+          "end": 9.42
+        },
+        {
+          "time": 12.4,
+          "end": 16.87
+        },
+        {
+          "time": 18.5,
+          "end": 22.57
+        }
+      ]
+    },
+    {
+      "id": "apartment",
+      "phase": 5,
+      "sourceFile": "mp3/05-the-apartment-we-wont-share.mp3",
+      "sourceSha256": "75789f478a3593fdcbc6ba6833e5b2e2c79012128efb8f06e2111dffc9b67bd1",
+      "sourceSegments": [
+        [
+          112.05,
+          131.1
+        ]
+      ],
+      "clipFile": "cuts/apartment-cce5e660e7.mp3",
+      "clipSha256": "6202fcbd3cc2dbe5b5ae290cfb3a2708d2263cb518131f827ba5c1bbb847bedd",
+      "clipDuration": 19.05,
+      "encodedDuration": 19.09551,
+      "lines": [
+        {
+          "time": 0.2,
+          "end": 2.53
+        },
+        {
+          "time": 2.53,
+          "end": 5.39
+        },
+        {
+          "time": 5.65,
+          "end": 9.73
+        },
+        {
+          "time": 11.39,
+          "end": 18.83
+        }
+      ]
+    },
+    {
+      "id": "sa-susunod-na-habang-buhay",
+      "phase": 6,
+      "sourceFile": "mp3/sa-susunod-na-habang-buhay.mp3",
+      "sourceSha256": "e914f65860b6b6c124302d4ea8e93b0d5a2eb2ac17f07ddf2d86f83bf650f388",
+      "sourceSegments": [
+        [
+          98.3,
+          138.96
+        ]
+      ],
+      "clipFile": "cuts/sa-susunod-na-habang-buhay-136d132110.mp3",
+      "clipSha256": "b72c5fa941ec51e1df0fbbdf139536e620cfb5047f173750a4c723071133a635",
+      "clipDuration": 40.66,
+      "encodedDuration": 40.698776,
+      "lines": [
+        {
+          "time": 0.18,
+          "end": 5.32
+        },
+        {
+          "time": 5.84,
+          "end": 10.7
+        },
+        {
+          "time": 13.72,
+          "end": 15.12
+        },
+        {
+          "time": 17.08,
+          "end": 19.88
+        },
+        {
+          "time": 21.92,
+          "end": 24.64
+        },
+        {
+          "time": 27.14,
+          "end": 35.12
+        },
+        {
+          "time": 35.12,
+          "end": 40.46
+        }
+      ]
+    }
+  ]
+}
